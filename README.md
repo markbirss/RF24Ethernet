@@ -71,8 +71,22 @@ This configuration is generally for initial testing only. Users may also need to
 See the following links for more information on configuring and using IPTables:
 
 http://www.karlrupp.net/en/computer/nat_tutorial
+
 http://serverfault.com/questions/326493/basic-iptables-nat-port-forwarding
 
 Warning
 
 Note: Users are responsible to manage further routing rules along with their IP traffic in order to prevent unauthorized access.
+
+
+https://github.com/markbirss/RF24
+
+https://github.com/markbirss/RF24Network
+
+https://github.com/markbirss/RF24Gateway
+
+
+
+
+
+
